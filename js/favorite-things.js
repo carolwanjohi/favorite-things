@@ -17,11 +17,17 @@ $(document).ready(function() {
       newArray.push(secondInput);
       newArray.push(firstInput);
       newArray.push(thirdInput);
-      alert(newArray);
 
-      newArray.forEach(function(element){
-        $("ul#new").append("<li>" + element + "</li>")
-      });
+      // Test
+      // alert(newArray);
+
+      for (var index = 0; index < newArray.length; index += 1) {
+        $("ul#new").append("<li>" + newArray[index] + "</li>")
+      }
+
+      // newArray.forEach(function(element){
+      //   $("ul#new").append("<li>" + element + "</li>")
+      // });
 
       event.preventDefault();
     });
