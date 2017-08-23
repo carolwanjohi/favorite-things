@@ -5,7 +5,7 @@
 ## By **[John Mutavi](https://github.com/jonnygovish) and [Carol Wanjohi](https://carolwanjohi.github.io/)**
 
 ## Description
-This displays the work done at [Moringa School](http://moringaschool.com/) by [John Mutavi](https://github.com/jonnygovish) and [Carol Wanjohi](https://carolwanjohi.github.io/). It is a project to introduce the contributors to working with arrays.
+This is a project to introduce the contributors to working with arrays.
 
 ## Known Bugs
 
